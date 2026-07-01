@@ -1,3 +1,0 @@
-*.apl? linguist-language=APL
-# Auto detect text files and perform LF normalization
-* text=auto
